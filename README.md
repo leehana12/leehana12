@@ -1,7 +1,6 @@
 ### Hello!👋 I am a student learning full-stack.
 ---
-![welcome to](https://github.com/leehana12/leehana12/assets/154123779/b5c3c617-4db9-469b-8889-ffd5fca9fc2e)
-
+<img src="https://github.com/leehana12/leehana12/assets/154123779/b5c3c617-4db9-469b-8889-ffd5fca9fc2e" width="1000px" />
 
 <!--
 **leehana12/leehana12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
